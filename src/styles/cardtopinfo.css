@@ -1,0 +1,20 @@
+.track_cards_cases {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  position: relative;
+  height: 100px;
+}
+.selected_card {
+  border-top: 0.8vw solid greenyellow;
+}
+.cardtopinfo_title {
+  font-size: 1.3rem;
+}
+.cardtopinfo_new {
+  font-size: 1rem;
+}
+.selected_red {
+  border-color: red !important;
+}

@@ -1,0 +1,10 @@
+.track_body_map {
+  border-radius: 2vw;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  text-align: center;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
